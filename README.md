@@ -1,7 +1,7 @@
 # Linear Algebra Concepts in Python 📊
-<div style="text-align: center;"> 
 
-![GitHub WidgetBox](https://media.giphy.com/media/3o7aCWDyW0PJCsxHna/giphy.gif?cid=790b7611c7krx0w13vqq3o5a9rfysherckkbhwor4uaiwubh&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+<div style="text-align: center;"> 
+![Linear Algebra](https://media.giphy.com/media/3o7aCWDyW0PJCsxHna/giphy.gif?cid=790b7611c7krx0w13vqq3o5a9rfysherckkbhwor4uaiwubh&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
 </div>
 
 
