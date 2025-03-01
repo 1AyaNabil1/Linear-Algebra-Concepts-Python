@@ -1,5 +1,8 @@
 # Linear Algebra Concepts in Python 📊
-<img align="center" src="https://media.giphy.com/media/3o7aCWDyW0PJCsxHna/giphy.gif?cid=790b7611c7krx0w13vqq3o5a9rfysherckkbhwor4uaiwubh&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="banner">
+<div style="text-align: center;"> 
+
+![GitHub WidgetBox](https://media.giphy.com/media/3o7aCWDyW0PJCsxHna/giphy.gif?cid=790b7611c7krx0w13vqq3o5a9rfysherckkbhwor4uaiwubh&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+</div>
 
 
 This repository contains implementations of various linear algebra concepts using Python and the NumPy library. The code is well-documented to serve as an educational resource for learning matrix operations and their practical implementations.
